@@ -1,7 +1,11 @@
-HOST_IP=$(${JPST_IP})
-
 build-gocd-agent:
-	docker build -t  wld.sh/gocd-agent:v22.3.0_0.1.1 compose/gocd/
+	docker build -t  wldsh/gocd-agent:v22.3.0_0.1.1 compose/gocd/
 
 push-gocd-agent:
-	docker push  wld.sh/gocd-agent:v22.3.0_0.1.1
+	docker push  wldsh/gocd-agent:v22.3.0_0.1.1
+
+k-build-gocd-agent:
+	docker build -t $$HOST_IP/gocd-agent-dind:v22.3.0_0.1.1 compose/gocd
+
+k-push-gocd-agent:
+	docker push $$HOST_IP/gocd-agent-dind:v22.3.0_0.1.1
