@@ -10,4 +10,4 @@ _________________________________
 * https://github.com/cnorthwood/gocd-tls-auth
 * https://github.com/gocd-contrib/gitlab-oauth-authorization-plugin
 * https://www.datree.io/helm-chart/apt-cacher-ng-truecharts
-
+* https://github.com/millerhooks/bundle-kubeflow
