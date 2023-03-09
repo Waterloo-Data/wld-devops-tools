@@ -16,4 +16,4 @@ _________________________________
 * https://support.jumpcloud.com/support/s/article/user-attributes-2019-08-21-10-36-47
 * https://github.com/gocd/gocd-ldap-authentication-plugin
 * https://support.jumpcloud.com/support/s/article/using-jumpclouds-ldap-as-a-service1
-* 
+* https://www.edureka.co/community/82700/response-daemon-https-registry-docker-connection-refused 
