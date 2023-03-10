@@ -18,3 +18,4 @@ _________________________________
 * https://support.jumpcloud.com/support/s/article/using-jumpclouds-ldap-as-a-service1
 * https://www.edureka.co/community/82700/response-daemon-https-registry-docker-connection-refused 
 * https://github.com/manojlds/gocd-docker
+* https://github.com/gocd/gocd/issues/951 - Git secrirotu om GoCd.... solvable with like base64 and some pipes or something.
